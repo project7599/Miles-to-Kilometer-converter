@@ -1,0 +1,20 @@
+#include<simplecpp>
+
+main_program{
+int miles;
+
+cout<< "Enter number of miles"<<endl;
+
+cin >> miles;
+
+cout << "Number of Kilometer:";
+
+wait(1);
+
+cout << miles/1.6;
+
+
+
+
+
+}
